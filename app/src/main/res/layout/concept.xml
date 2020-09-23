@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:text="CONCEPT"
+        android:layout_marginTop="10dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="21dp"
+        android:textColor="#FF0000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="1.5dp"
+        android:text="CONCEPT"
+        android:layout_marginLeft="21dp"
+        android:textSize="30dp"
+        android:background="#0000FF"
+        android:textColor="#000000"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="16dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="In spite of all goverment efforts people are out of amenities and also afraid to go out to doctors or to buy vegetables because of police restrictions.We built a perfect PROTOTYPE solution to all these problems.E-PASS Facility to people and the police to manage crowd "
+        android:textSize="15dp"
+        android:layout_marginLeft="5dp"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:text="Important features of this mechanism-"
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1.Only 50 Epass issued every week."
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2.Aadhar card validation."
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3.Qr in form of Epass."
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4.Easy Police login."
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5.Inbuild Qr scanner for Police."
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6-Mass gathering Reporting."
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="7-Report to any problem faced by comman people."
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Similar web application was built by"
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-YASHI GUPTA"
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-YASH RAJ SINGH"
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-UTKARSH SINGH"
+        android:textStyle="bold"
+        android:layout_marginLeft="5dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Additionally app shows live corona data fetched through apis."
+                android:layout_marginLeft="5dp"
+                android:textSize="15dp"
+                android:textColor="#000000"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="#f0ff00"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:layout_marginTop="30dp"
+                android:textSize="15dp"
+                android:textColor="#ff0fff"
+                android:text="FIND MORE ON GITHUB"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+
+</LinearLayout>
+

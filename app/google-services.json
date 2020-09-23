@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101930501202",
+    "firebase_url": "https://janta-pass.firebaseio.com",
+    "project_id": "janta-pass",
+    "storage_bucket": "janta-pass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101930501202:android:552f6e69f87b2dd9c54b8b",
+        "android_client_info": {
+          "package_name": "com.example.fight_corona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101930501202-ke5pp7uhgmib3ilkau3pr449q5048p9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fight_corona",
+            "certificate_hash": "54bd6f54b756cad1c0e5e695ad75155dc3ee602c"
+          }
+        },
+        {
+          "client_id": "101930501202-40p3irodfrgg9g368he3gslec1e0to30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwpJCBLRVpAdLac3mc2gIDZtdb8hRU11Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101930501202-40p3irodfrgg9g368he3gslec1e0to30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/live_data"
+            android:icon="@drawable/dash1"
+            android:title="LIVE DATA"
+            />
+        <item
+            android:id="@+id/STATED"
+            android:icon="@drawable/ic_equalizer_black_24dp"
+            android:title="STATE DATA"
+            />
+        <item
+            android:id="@+id/genpass"
+            android:icon="@drawable/ic_content_paste_black_24dp"
+            android:title="E-PASS" />
+        <item
+            android:id="@+id/no"
+            android:icon="@drawable/ic_call_black_24dp"
+            android:title="HELPLINE NUMBER" />
+
+        <item
+            android:id="@+id/mass"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="REPORT MASS GATHERING" />
+        <item
+            android:id="@+id/concept"
+            android:icon="@drawable/ic_inbox_black_24dp"
+            android:title="CONCEPT" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="ABOUT ME" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_arrow_back_black_24dp"
+            android:title="LOG OUT" />
+
+
+    </group>
+
+
+</menu>
