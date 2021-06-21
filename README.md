@@ -14,7 +14,7 @@ Made a fully functioning prototype solution app that solves problem faced during
 </ul>
 
 ## Technology Stack Used
- **Anrdoid**: Java, Firebase, Retrofit, Navigation Components
+ **Anrdoid**: Java, Firebase, Retrofit, Navigation Components,Jsoup,ZXing library
 
 ## Links
 - **Android Apk**:https://lnkd.in/d3yU8kg 
