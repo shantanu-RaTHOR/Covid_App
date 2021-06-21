@@ -1,7 +1,7 @@
 # Covid_App
 ## SCREENSHOTS
   ## 1
-  <img src="ScreenShots/img1.jpg" width="900"   title="IMAGE 1">
+  <img src="SCREENSHOTS/image1.jpg" width="900"   title="IMAGE 1">
   
   
   
