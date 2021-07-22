@@ -1,5 +1,4 @@
 <h1 align="center"> Covid App</h1>
-Our Solution 
 Made a fully functioning prototype solution app that solves problem faced during COVID-19 crisis.
 •Idea is to generate e-pass based in form of QR code to people who need to go out.
 •Police will have an alternate login in app through unique police ID , using this login they can scan and verify the pass.On scanning they get all necessary information like name aadhar id , date and time till pass is valid. 
